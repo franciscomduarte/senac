@@ -12,9 +12,9 @@
       
 		<div class="panel panel-default">
 		  <!-- Default panel contents -->
-		  <div class="panel-heading">Unidades</div>
+		  <div class="panel-heading">Centros de Ensino Profissionalizante</div>
 		  <div class="panel-body bg-primary">
-		    <p>Listagem de Unidades cadastradas no sistema</p>
+		    <p>Listagem de CEPs cadastradas no sistema</p>
 		  </div>
 		
 		  <!-- Table -->

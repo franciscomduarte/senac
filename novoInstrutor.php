@@ -42,7 +42,7 @@
 
 	
 	<fieldset>
-		<legend class="bg-primary"> # Instrutor capacitado nas seguintes matérias #</legend>
+		<legend class="bg-primary"> # Competências #</legend>
 		
 		
 		<label class="checkbox-inline">

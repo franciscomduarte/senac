@@ -13,7 +13,7 @@
 	<fieldset>
 	
 	
-	<legend class="bg-primary"> # Cadastro de Uniades #</legend>
+	<legend class="bg-primary"> # Cadastro de CEP #</legend>
 	
 		<div class="input-group input-group-lg">
 		  Nome:<input type="text" class="form-control" placeholder="nome">
