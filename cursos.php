@@ -31,7 +31,7 @@
 		        <tbody>
 		          <tr>
 		            <td>1</td>
-		            <td>Cabeleiro</td>
+		            <td>Cabeleleiro</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>400h</td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>

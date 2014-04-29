@@ -5,7 +5,6 @@
     	<li><a href="cursos.php">Cursos</a></li>
     	<li><a href="agendamento.php">Agendamento</a></li>
         <li><a href="instrutores.php">Instrutores</a></li>
-        <li><a href="alocacao.php">Alocação</a></li>
         <li><a href="unidades.php">CEPs</a></li>
         <li><a href="eventos.php">Eventos</a></li>
         <li><a href="eixos.php">Eixos</a></li>
