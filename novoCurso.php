@@ -70,11 +70,42 @@
 			<fieldset>
 			<legend class="bg-primary"> # Disciplinas #</legend>
 			
-					<label class="checkbox-inline">
+			
+			<div class="well well-lg">Gestão de Négocios</div>
+			
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox1" value="option1"> Gestão de Empreendedorismo
+			</label>
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Relações Interpessoais I
+			</label>
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox3" value="option3"> Comunicação Empresarial
+			</label>
+			
+			<br>
+			
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox1" value="option1"> Editor de Textos
+			</label>
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Processos de Suprimento
+			</label>
+			<label class="checkbox-inline">
+			  <input type="checkbox" id="inlineCheckbox3" value="option3"> Aquisição de Materias
+			</label>
+			
+			<br>
+			<br>
+			<br>
+			
+			<div class="well well-lg">Ambiente e Saúde</div>
+			
+						<label class="checkbox-inline">
 			  <input type="checkbox" id="inlineCheckbox1" value="option1"> Estética
 			</label>
 			<label class="checkbox-inline">
-			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Informática Básica
+			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Fisiologia
 			</label>
 			<label class="checkbox-inline">
 			  <input type="checkbox" id="inlineCheckbox3" value="option3"> Massoterapia
@@ -86,7 +117,7 @@
 			  <input type="checkbox" id="inlineCheckbox1" value="option1"> Anatomia
 			</label>
 			<label class="checkbox-inline">
-			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Fisiologia
+			  <input type="checkbox" id="inlineCheckbox2" value="option2"> Biomecânica
 			</label>
 			<label class="checkbox-inline">
 			  <input type="checkbox" id="inlineCheckbox3" value="option3"> Podologia
