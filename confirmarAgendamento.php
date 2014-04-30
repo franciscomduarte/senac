@@ -46,7 +46,13 @@
 	      	      		</h4>
 	      	      </div>
 	      	 </div>
+	      	 <div style="width: 100px;">
+	      	      <h4>
+	      	      		<a class="btn btn-primary btn-lg" role="button">Alocar</a>
+	      	      </h4>
+	      	</div> 
 	      </div>
+
 	    </div>
 	    
 	   <div class="media alert alert-success">
@@ -72,6 +78,11 @@
 	      	      		</h4>
 	      	      </div>
 	      	 </div>
+	      	 <div style="width: 100px;">
+	      	      		<h4>
+	      	      			<a class="btn btn-primary btn-lg" role="button">Alocar</a>
+	      	      		</h4>
+	      	  </div> 
 	      </div>
 	    </div>
 	    
@@ -98,6 +109,11 @@
 	      	      		</h4>
 	      	      </div>
 	      	 </div>
+	      		<div style="width: 100px;">
+	      	      		<h4>
+	      	      			<a class="btn btn-primary btn-lg" role="button">Alocar</a>
+	      	      		</h4>
+	      	  </div> 
 	      </div>
 	    </div>
 	    
@@ -106,7 +122,7 @@
 			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p2.png" >
 			</a>
 	      <div class="media-body">
-	        <h4 class="media-heading">Adriano Souza</h4>
+	        <h4 class="media-heading">Lara Duarte</h4>
 	         <b>Alocado?</b> Sim
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
@@ -132,13 +148,13 @@
 			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p1.png" >
 			</a>
 	      <div class="media-body">
-	        <h4 class="media-heading">Adriano Souza</h4>
+	        <h4 class="media-heading">José Ferreira</h4>
 	         <b>Alocado?</b> Sim
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
 	      	 <br>
 	      	 <div style="width: 100%; float: right;">
-	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a>
 	      	      <div style="width: 100px; float: right;">
 	      	      		<h4>
 	      	      			<span class="label label-warning ">Previsto</span>
@@ -158,7 +174,7 @@
 			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p7.png" >
 			</a>
 	      <div class="media-body">
-	        <h4 class="media-heading">Adriano Souza</h4>
+	        <h4 class="media-heading">Francisco Moura</h4>
 	         <b>Alocado?</b> Sim
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
