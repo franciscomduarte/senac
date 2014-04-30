@@ -34,7 +34,7 @@
 	    <p class="help-block">Escolha a foto do Instrutor</p>
 	  </div>
 	
-			<div class="form-group">
+		<div class="form-group">
 	    <label for="exampleInputFile">Currículo</label>
 	    <input type="file" id="exampleInputFile">
 	    <p class="help-block">Escolha o currículo do Instrutor</p>

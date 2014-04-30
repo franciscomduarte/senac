@@ -25,6 +25,8 @@
 		            <th>Nome</th>
 		            <th>Eixo Técnologico</th>
 		            <th>Total de Horas</th>
+		            <th>Matriz Currícular</th>
+		            <th>Plano de Curso</th>
 		            <th>Ações</th>
 		          </tr>
 		        </thead>
@@ -34,6 +36,8 @@
 		            <td>Cabeleleiro</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>400h</td>
+		            <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          <tr>
@@ -41,6 +45,8 @@
 		            <td>Copeiro Hospitalar</td>
 		           <td>Ambiente e Saúde</td>
 		            <td>230h</td>
+		             <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          <tr>
@@ -48,6 +54,8 @@
 		            <td>Corte e Escova</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>230h</td>
+		             <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          
@@ -56,6 +64,8 @@
 		            <td>Depilador</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>200h</td>
+		             <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          <tr>
@@ -63,6 +73,8 @@
 		            <td>Design de Sobracelhas </td>
 		            <td>Ambiente e Saúde</td>
 		            <td>20h</td>
+		             <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          <tr>
@@ -70,6 +82,8 @@
 		            <td>Especialização Técnica em Enfermagem do Trabalho</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>480h</td>
+		             <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          <tr>
@@ -77,6 +91,8 @@
 		            <td>Especialização Técnica em Instrumentação Cirúrgica</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>380h</td>
+		            <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          
@@ -85,6 +101,8 @@
 		            <td>Manicure e Pedicure</td>
 		            <td>Ambiente e Saúde</td>
 		            <td>200h</td>
+		            <td align="center"><a href="#"><img alt="Matriz Curricular" src="images/pdf.jpeg" width="30" height="30"></a></td>
+		            <td align="center"><a href="#"><img alt="Plano de Curso" src="images/doc.jpeg" width="30" height="30"></a></td>
 		            <td><span class="glyphicon glyphicon-remove"></span></td>
 		          </tr>
 		          

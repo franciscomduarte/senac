@@ -33,7 +33,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Terça, Quarta e Quinta
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-success ">Disponível</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">12</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	    </div>
 	    
@@ -47,7 +59,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Terça, Quarta e Quinta e Sexta
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-success ">Disponível</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">18</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	    </div>
 	    
@@ -61,7 +85,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Sábado e Domingo
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-success ">Disponível</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">42</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	    </div>
 	    
@@ -75,7 +111,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-warning ">Previsto</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">22</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	    </div>
 	    
@@ -89,7 +137,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-warning ">Previsto</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">26</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	   	</div>
 	   	
@@ -103,7 +163,19 @@
 	         <br>
 	      	 <b>Disponibilidade:</b> Toda a semana
 	      	 <br>
-	      	 <a href="#"><b>Ver Histórico do Professor</b></a>
+	      	 <div style="width: 100%; float: right;">
+	      	 	  <a href="#"><b>Ver Histórico do Professor</b></a> 
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="label label-danger ">Indisponível</span>
+	      	      		</h4>
+	      	      </div>
+	      	      <div style="width: 100px; float: right;">
+	      	      		<h4>
+	      	      			<span class="badge">9</span>
+	      	      		</h4>
+	      	      </div>
+	      	 </div>
 	      </div>
 	    </div>
     

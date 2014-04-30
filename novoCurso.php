@@ -40,10 +40,30 @@
 		  		</select>
 		</div>
 		
+		<br/>
+		
+		<div class="">
+		  Resumo do Curso:<textarea class="form-control" rows="3"></textarea>
+		</div>
+		
 		<div class="input-group input-group-lg">
 		  Horas:<input type="text" class="form-control" placeholder="nome">
 		</div>
 		
+		<br/>
+		
+		<div class="form-group">
+	    	<label for="exampleInputFile">Matriz Curricular</label>
+	    	<input type="file" id="exampleInputFile">
+	    	<p class="help-block">Escolha a Matriz Curricular</p>
+	  	</div>
+	  	
+	  	<div class="form-group">
+	    	<label for="exampleInputFile">Plano de Curso</label>
+	    	<input type="file" id="exampleInputFile">
+	    	<p class="help-block">Escolha o Plano de Curso</p>
+	  	</div>
+	  		
 		<br/>
 		
 		<div>
