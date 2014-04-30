@@ -25,10 +25,10 @@
 		<div class="bs-example">
 	    <div class="media alert alert-success">
 	      <a class="pull-left" href="#">
-	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p3.png" height="40" width="40">
+	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/fotos/nedja.jpg" height="150" width="150">
 	      </a>
 	      <div class="media-body">
-	        <h4 class="media-heading">Adriano Souza</h4>
+	        <h4 class="media-heading">Neudja Nogueira</h4>
 	         <b>Alocado?</b> Não
 	         <br>
 	      	 <b>Disponibilidade:</b> Terça, Quarta e Quinta
@@ -51,10 +51,10 @@
 	    
 	   <div class="media alert alert-success">
 	      <a class="pull-left" href="#">
-	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p5.png" height="40" width="40">
+	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/fotos/maria.jpg" height="150" width="150">
 	      </a>
 	       <div class="media-body">
-	        <h4 class="media-heading">Adriano Souza</h4>
+	        <h4 class="media-heading">Maria do Espírito Santo Alves</h4>
 	         <b>Alocado?</b> Não
 	         <br>
 	      	 <b>Disponibilidade:</b> Terça, Quarta e Quinta e Sexta
@@ -77,7 +77,7 @@
 	    
 	   	<div class="media alert alert-success">
 	      <a class="pull-left" href="#">
-	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p6.png" height="40" width="40">
+	        <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p6.png" >
 	      </a>
 	       <div class="media-body">
 	        <h4 class="media-heading">Adriano Souza</h4>
@@ -103,7 +103,7 @@
 	    
 	    <div class="media alert alert-warning">
 			<a class="pull-left" href="#">
-			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p2.png" height="40" width="40">
+			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p2.png" >
 			</a>
 	      <div class="media-body">
 	        <h4 class="media-heading">Adriano Souza</h4>
@@ -129,7 +129,7 @@
 	    
 	    <div class="media alert alert-warning">
 			<a class="pull-left" href="#">
-			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p1.png" height="40" width="40">
+			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p1.png" >
 			</a>
 	      <div class="media-body">
 	        <h4 class="media-heading">Adriano Souza</h4>
@@ -155,7 +155,7 @@
 	   	
 	   <div class="media alert alert-danger">
 			<a class="pull-left" href="#">
-			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p7.png" height="40" width="40">
+			  <img class="media-object" data-src="holder.js/27X27" alt="27X27" src="images/p7.png" >
 			</a>
 	      <div class="media-body">
 	        <h4 class="media-heading">Adriano Souza</h4>
